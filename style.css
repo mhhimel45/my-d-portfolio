@@ -33,3 +33,25 @@ p{font-style: italic;}
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px;
+    border-radius: 5px;
+    
+}
+#fullstack{
+    border-left:  7px solid tomato;
+}
+#baby{
+    border-left: 7px solid orange;
+}
+footer p{ 
+    text-align: center;
+}
